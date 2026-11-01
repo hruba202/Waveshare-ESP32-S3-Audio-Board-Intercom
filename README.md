@@ -18,5 +18,4 @@ Built with assistance from **OpenAI Codex**, using ESPHome and the VoIP/Audio St
 
 <img width="3024" height="4032" alt="cama" src="https://github.com/user-attachments/assets/ca0c0c3b-5401-4a8d-b83c-34a511c90b33" />
 <img width="4032" height="3024" alt="IMG_2447" src="https://github.com/user-attachments/assets/d66776c3-8291-4cb4-9717-af0b8d252e56" />
-
-
+<img width="2016" height="1512" alt="incall" src="https://github.com/user-attachments/assets/228d6cfb-1ea9-48fd-b564-d11319ddb5ab" />
